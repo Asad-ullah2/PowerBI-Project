@@ -1,4 +1,4 @@
 Screenshots folder
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Dashboard Overview](screenshots/dashboard_overview.png)
